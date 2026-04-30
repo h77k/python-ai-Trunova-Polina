@@ -1,0 +1,415 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+	<head>
+		<variable name='manufacturer'/>
+		<variable name='manufacturerLabel'/>
+		<variable name='countryLabel'/>
+		<variable name='hqLabel'/>
+		<variable name='inception'/>
+		<variable name='industryLabel'/>
+		<variable name='website'/>
+		<variable name='logo'/>
+		<variable name='image'/>
+	</head>
+	<results>
+		<result>
+			<binding name='manufacturer'>
+				<uri>http://www.wikidata.org/entity/Q210982</uri>
+			</binding>
+			<binding name='manufacturerLabel'>
+				<literal>Q210982</literal>
+			</binding>
+			<binding name='countryLabel'>
+				<literal xml:lang='ru'>Германия</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='manufacturer'>
+				<uri>http://www.wikidata.org/entity/Q246</uri>
+			</binding>
+			<binding name='manufacturerLabel'>
+				<literal xml:lang='en'>Volkswagen</literal>
+			</binding>
+			<binding name='countryLabel'>
+				<literal xml:lang='ru'>Германия</literal>
+			</binding>
+			<binding name='hqLabel'>
+				<literal xml:lang='ru'>Вольфсбург</literal>
+			</binding>
+			<binding name='inception'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1937-05-28T00:00:00Z</literal>
+			</binding>
+			<binding name='industryLabel'>
+				<literal xml:lang='ru'>автомобильная промышленность</literal>
+			</binding>
+			<binding name='website'>
+				<uri>https://www.vw.com/en.html</uri>
+			</binding>
+			<binding name='logo'>
+				<uri>http://commons.wikimedia.org/wiki/Special:FilePath/Volkswagen%20logo%202019.svg</uri>
+			</binding>
+			<binding name='image'>
+				<uri>http://commons.wikimedia.org/wiki/Special:FilePath/VW%20Werk%20Altes%20Heizkraftwerk%20WB%20edit.jpg</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='manufacturer'>
+				<uri>http://www.wikidata.org/entity/Q2666</uri>
+			</binding>
+			<binding name='manufacturerLabel'>
+				<literal xml:lang='ru'>20 июня</literal>
+			</binding>
+			<binding name='countryLabel'>
+				<literal xml:lang='ru'>Германия</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='manufacturer'>
+				<uri>http://www.wikidata.org/entity/Q23076</uri>
+			</binding>
+			<binding name='manufacturerLabel'>
+				<literal xml:lang='ru'>Nederlandse Spoorwegen</literal>
+			</binding>
+			<binding name='countryLabel'>
+				<literal xml:lang='ru'>Россия</literal>
+			</binding>
+			<binding name='hqLabel'>
+				<literal xml:lang='ru'>Утрехт</literal>
+			</binding>
+			<binding name='inception'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1937-08-02T00:00:00Z</literal>
+			</binding>
+			<binding name='industryLabel'>
+				<literal xml:lang='ru'>пассажирские перевозки</literal>
+			</binding>
+			<binding name='website'>
+				<uri>https://www.ns.nl/</uri>
+			</binding>
+			<binding name='logo'>
+				<uri>http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandse%20Spoorwegen%20logo.svg</uri>
+			</binding>
+			<binding name='image'>
+				<uri>http://commons.wikimedia.org/wiki/Special:FilePath/NS%20Stationsgebied%20Utrecht.jpg</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='manufacturer'>
+				<uri>http://www.wikidata.org/entity/Q23076</uri>
+			</binding>
+			<binding name='manufacturerLabel'>
+				<literal xml:lang='ru'>Nederlandse Spoorwegen</literal>
+			</binding>
+			<binding name='countryLabel'>
+				<literal xml:lang='ru'>Россия</literal>
+			</binding>
+			<binding name='hqLabel'>
+				<literal xml:lang='ru'>Утрехт</literal>
+			</binding>
+			<binding name='inception'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1938-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='industryLabel'>
+				<literal xml:lang='ru'>пассажирские перевозки</literal>
+			</binding>
+			<binding name='website'>
+				<uri>https://www.ns.nl/</uri>
+			</binding>
+			<binding name='logo'>
+				<uri>http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandse%20Spoorwegen%20logo.svg</uri>
+			</binding>
+			<binding name='image'>
+				<uri>http://commons.wikimedia.org/wiki/Special:FilePath/NS%20Stationsgebied%20Utrecht.jpg</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='manufacturer'>
+				<uri>http://www.wikidata.org/entity/Q23076</uri>
+			</binding>
+			<binding name='manufacturerLabel'>
+				<literal xml:lang='ru'>Nederlandse Spoorwegen</literal>
+			</binding>
+			<binding name='countryLabel'>
+				<literal xml:lang='ru'>Россия</literal>
+			</binding>
+			<binding name='hqLabel'>
+				<literal xml:lang='ru'>Утрехт</literal>
+			</binding>
+			<binding name='inception'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1937-08-02T00:00:00Z</literal>
+			</binding>
+			<binding name='industryLabel'>
+				<literal xml:lang='ru'>железнодорожный транспорт</literal>
+			</binding>
+			<binding name='website'>
+				<uri>https://www.ns.nl/</uri>
+			</binding>
+			<binding name='logo'>
+				<uri>http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandse%20Spoorwegen%20logo.svg</uri>
+			</binding>
+			<binding name='image'>
+				<uri>http://commons.wikimedia.org/wiki/Special:FilePath/NS%20Stationsgebied%20Utrecht.jpg</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='manufacturer'>
+				<uri>http://www.wikidata.org/entity/Q23076</uri>
+			</binding>
+			<binding name='manufacturerLabel'>
+				<literal xml:lang='ru'>Nederlandse Spoorwegen</literal>
+			</binding>
+			<binding name='countryLabel'>
+				<literal xml:lang='ru'>Россия</literal>
+			</binding>
+			<binding name='hqLabel'>
+				<literal xml:lang='ru'>Утрехт</literal>
+			</binding>
+			<binding name='inception'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1938-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='industryLabel'>
+				<literal xml:lang='ru'>железнодорожный транспорт</literal>
+			</binding>
+			<binding name='website'>
+				<uri>https://www.ns.nl/</uri>
+			</binding>
+			<binding name='logo'>
+				<uri>http://commons.wikimedia.org/wiki/Special:FilePath/Nederlandse%20Spoorwegen%20logo.svg</uri>
+			</binding>
+			<binding name='image'>
+				<uri>http://commons.wikimedia.org/wiki/Special:FilePath/NS%20Stationsgebied%20Utrecht.jpg</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='manufacturer'>
+				<uri>http://www.wikidata.org/entity/Q28616</uri>
+			</binding>
+			<binding name='manufacturerLabel'>
+				<literal xml:lang='ru'>Горьковский автомобильный завод</literal>
+			</binding>
+			<binding name='countryLabel'>
+				<literal xml:lang='ru'>Россия</literal>
+			</binding>
+			<binding name='hqLabel'>
+				<literal xml:lang='ru'>Нижний Новгород</literal>
+			</binding>
+			<binding name='inception'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1932-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='industryLabel'>
+				<literal xml:lang='ru'>автомобильная промышленность</literal>
+			</binding>
+			<binding name='website'>
+				<uri>https://nn.gaz.ru/</uri>
+			</binding>
+			<binding name='logo'>
+				<uri>http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20GAZ%20an%20einem%20Wolga%20cropped.JPG</uri>
+			</binding>
+			<binding name='image'>
+				<uri>http://commons.wikimedia.org/wiki/Special:FilePath/Gorky%20Automobile%20Plant.%20Main%20entrance.%2009-2019%2001.jpg</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='manufacturer'>
+				<uri>http://www.wikidata.org/entity/Q28616</uri>
+			</binding>
+			<binding name='manufacturerLabel'>
+				<literal xml:lang='ru'>Горьковский автомобильный завод</literal>
+			</binding>
+			<binding name='countryLabel'>
+				<literal xml:lang='ru'>Россия</literal>
+			</binding>
+			<binding name='hqLabel'>
+				<literal xml:lang='ru'>Нижний Новгород</literal>
+			</binding>
+			<binding name='inception'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1932-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='industryLabel'>
+				<literal xml:lang='ru'>военная промышленность</literal>
+			</binding>
+			<binding name='website'>
+				<uri>https://nn.gaz.ru/</uri>
+			</binding>
+			<binding name='logo'>
+				<uri>http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20GAZ%20an%20einem%20Wolga%20cropped.JPG</uri>
+			</binding>
+			<binding name='image'>
+				<uri>http://commons.wikimedia.org/wiki/Special:FilePath/Gorky%20Automobile%20Plant.%20Main%20entrance.%2009-2019%2001.jpg</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='manufacturer'>
+				<uri>http://www.wikidata.org/entity/Q30378</uri>
+			</binding>
+			<binding name='manufacturerLabel'>
+				<literal xml:lang='ru'>КАМАЗ</literal>
+			</binding>
+			<binding name='countryLabel'>
+				<literal xml:lang='ru'>Россия</literal>
+			</binding>
+			<binding name='hqLabel'>
+				<literal xml:lang='ru'>Набережные Челны</literal>
+			</binding>
+			<binding name='inception'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1969-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='industryLabel'>
+				<literal xml:lang='ru'>автомобильная промышленность</literal>
+			</binding>
+			<binding name='website'>
+				<uri>https://kamaz.ru/</uri>
+			</binding>
+			<binding name='logo'>
+				<uri>http://commons.wikimedia.org/wiki/Special:FilePath/Typeface%20logo%20of%20KAMAZ.svg</uri>
+			</binding>
+			<binding name='image'>
+				<uri>http://commons.wikimedia.org/wiki/Special:FilePath/Kamaz%202.JPG</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='manufacturer'>
+				<uri>http://www.wikidata.org/entity/Q30378</uri>
+			</binding>
+			<binding name='manufacturerLabel'>
+				<literal xml:lang='ru'>КАМАЗ</literal>
+			</binding>
+			<binding name='countryLabel'>
+				<literal xml:lang='ru'>Россия</literal>
+			</binding>
+			<binding name='hqLabel'>
+				<literal xml:lang='ru'>Набережные Челны</literal>
+			</binding>
+			<binding name='inception'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1969-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='industryLabel'>
+				<literal xml:lang='ru'>автомобильная промышленность</literal>
+			</binding>
+			<binding name='website'>
+				<uri>https://kamaz.ru/en/</uri>
+			</binding>
+			<binding name='logo'>
+				<uri>http://commons.wikimedia.org/wiki/Special:FilePath/Typeface%20logo%20of%20KAMAZ.svg</uri>
+			</binding>
+			<binding name='image'>
+				<uri>http://commons.wikimedia.org/wiki/Special:FilePath/Kamaz%202.JPG</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='manufacturer'>
+				<uri>http://www.wikidata.org/entity/Q44294</uri>
+			</binding>
+			<binding name='manufacturerLabel'>
+				<literal xml:lang='ru'>Ford</literal>
+			</binding>
+			<binding name='countryLabel'>
+				<literal xml:lang='ru'>США</literal>
+			</binding>
+			<binding name='hqLabel'>
+				<literal xml:lang='ru'>Дирборн</literal>
+			</binding>
+			<binding name='inception'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1903-06-16T00:00:00Z</literal>
+			</binding>
+			<binding name='industryLabel'>
+				<literal xml:lang='ru'>автомобильная промышленность</literal>
+			</binding>
+			<binding name='website'>
+				<uri>https://www.ford.com</uri>
+			</binding>
+			<binding name='logo'>
+				<uri>http://commons.wikimedia.org/wiki/Special:FilePath/Ford%20logo%20flat.svg</uri>
+			</binding>
+			<binding name='image'>
+				<uri>http://commons.wikimedia.org/wiki/Special:FilePath/FordGlassHouse.jpg</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='manufacturer'>
+				<uri>http://www.wikidata.org/entity/Q53268</uri>
+			</binding>
+			<binding name='manufacturerLabel'>
+				<literal xml:lang='en'>Toyota</literal>
+			</binding>
+			<binding name='countryLabel'>
+				<literal xml:lang='ru'>Франция</literal>
+			</binding>
+			<binding name='hqLabel'>
+				<literal xml:lang='ru'>Тоёта</literal>
+			</binding>
+			<binding name='inception'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1937-08-28T00:00:00Z</literal>
+			</binding>
+			<binding name='industryLabel'>
+				<literal xml:lang='ru'>автомобильная промышленность</literal>
+			</binding>
+			<binding name='website'>
+				<uri>https://global.toyota</uri>
+			</binding>
+			<binding name='logo'>
+				<uri>http://commons.wikimedia.org/wiki/Special:FilePath/Toyota.svg</uri>
+			</binding>
+			<binding name='image'>
+				<uri>http://commons.wikimedia.org/wiki/Special:FilePath/Headquarter%20of%20Toyota%20Motor%20Corporation%203.JPG</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='manufacturer'>
+				<uri>http://www.wikidata.org/entity/Q29637</uri>
+			</binding>
+			<binding name='manufacturerLabel'>
+				<literal xml:lang='ru'>Škoda Auto</literal>
+			</binding>
+			<binding name='countryLabel'>
+				<literal xml:lang='ru'>Чехия</literal>
+			</binding>
+			<binding name='hqLabel'>
+				<literal xml:lang='ru'>Млада-Болеслав</literal>
+			</binding>
+			<binding name='inception'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1895-12-17T00:00:00Z</literal>
+			</binding>
+			<binding name='industryLabel'>
+				<literal xml:lang='ru'>автомобильная промышленность</literal>
+			</binding>
+			<binding name='website'>
+				<uri>https://www.skoda-auto.com/</uri>
+			</binding>
+			<binding name='logo'>
+				<uri>http://commons.wikimedia.org/wiki/Special:FilePath/%C5%A0koda%20nieuw.png</uri>
+			</binding>
+			<binding name='image'>
+				<uri>http://commons.wikimedia.org/wiki/Special:FilePath/%C5%A0koda%20nov%C3%A9%20s%C3%ADdlo.jpg</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='manufacturer'>
+				<uri>http://www.wikidata.org/entity/Q29637</uri>
+			</binding>
+			<binding name='manufacturerLabel'>
+				<literal xml:lang='ru'>Škoda Auto</literal>
+			</binding>
+			<binding name='countryLabel'>
+				<literal xml:lang='ru'>Чехия</literal>
+			</binding>
+			<binding name='hqLabel'>
+				<literal xml:lang='ru'>Млада-Болеслав</literal>
+			</binding>
+			<binding name='inception'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1990-11-20T00:00:00Z</literal>
+			</binding>
+			<binding name='industryLabel'>
+				<literal xml:lang='ru'>автомобильная промышленность</literal>
+			</binding>
+			<binding name='website'>
+				<uri>https://www.skoda-auto.com/</uri>
+			</binding>
+			<binding name='logo'>
+				<uri>http://commons.wikimedia.org/wiki/Special:FilePath/%C5%A0koda%20nieuw.png</uri>
+			</binding>
+			<binding name='image'>
+				<uri>http://commons.wikimedia.org/wiki/Special:FilePath/%C5%A0koda%20nov%C3%A9%20s%C3%ADdlo.jpg</uri>
+			</binding>
+		</result>
+	</results>
+</sparql>
