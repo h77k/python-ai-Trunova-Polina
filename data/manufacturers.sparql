@@ -1,0 +1,33 @@
+# Selected vehicle manufacturers: country, foundation, headquarters, industry
+# Выбранные производители транспорта: страна, основание, штаб-квартира, отрасль
+SELECT DISTINCT
+  ?manufacturer ?manufacturerLabel
+  ?countryLabel
+  ?hqLabel
+  ?inception
+  ?industryLabel
+  ?website
+  ?logo
+  ?image
+WHERE {
+  VALUES (?manufacturer ?country) {
+    (wd:Q29637 wd:Q213)      # Škoda Auto — Czech Republic
+    (wd:Q246 wd:Q183)        # Volkswagen — Germany
+    (wd:Q2666 wd:Q183)       # BMW — Germany
+    (wd:Q210982 wd:Q183)     # Mercedes-Benz Group — Germany
+    (wd:Q53268 wd:Q142)      # Renault — France
+    (wd:Q44294 wd:Q30)       # Ford Motor Company — USA
+    (wd:Q23076 wd:Q159)      # AvtoVAZ — Russia
+    (wd:Q28616 wd:Q159)      # GAZ — Russia
+    (wd:Q30378 wd:Q159)      # KamAZ — Russia
+  }
+  OPTIONAL { ?manufacturer wdt:P159 ?hq . }        # штаб-квартира
+  OPTIONAL { ?manufacturer wdt:P571 ?inception . } # дата основания
+  OPTIONAL { ?manufacturer wdt:P452 ?industry . }  # отрасль
+  OPTIONAL { ?manufacturer wdt:P856 ?website . }   # сайт
+  OPTIONAL { ?manufacturer wdt:P154 ?logo . }      # логотип
+  OPTIONAL { ?manufacturer wdt:P18 ?image . }      # изображение
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en,mul". }
+}
+ORDER BY ?countryLabel ?manufacturerLabel
